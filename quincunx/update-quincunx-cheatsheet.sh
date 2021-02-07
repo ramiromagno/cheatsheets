@@ -11,6 +11,8 @@ stapler cat quincunx_cheatsheet_page0*.pdf quincunx_cheatsheet.pdf
 
 # Create PNG thumbnail
 convert quincunx_cheatsheet.pdf \
+        -bordercolor white \
+        -border 0 \
         -background '#DCDDDE' \
         -gravity south -splice 0x16 \
         -gravity north -splice 0x16 \
