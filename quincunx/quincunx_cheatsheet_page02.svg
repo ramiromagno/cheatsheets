@@ -22378,9 +22378,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.310712"
-     inkscape:cx="604.32536"
-     inkscape:cy="379.75819"
+     inkscape:zoom="1.155356"
+     inkscape:cx="657.07701"
+     inkscape:cy="490.95655"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -22590,7 +22590,7 @@
          y="295.87979"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27718px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.189765px">CC BY SA Ramiro Magno • Learn more at <tspan
    style="fill:#398a96;fill-opacity:1;stroke-width:0.189765px"
-   id="tspan21557-4-3">https://rmagno.eu/quincunx</tspan> • quincunx version 0.0.1 • Updated: 2021-02-07</tspan></text>
+   id="tspan21557-4-3">https://maialab.org/quincunx</tspan> • quincunx version 0.0.1 • Updated: 2021-02-17</tspan></text>
     <g
        id="g18317"
        transform="translate(3.3333334e-8,-15.67823)">
@@ -23943,7 +23943,7 @@
        style="stroke-width:1.42857">
       <path
          style="fill:#f8f8f7;fill-opacity:1;stroke:none;stroke-width:0.377976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 477.96686,338.93828 c 2.60587,10e-4 4.69205,0.76403 5.93038,2.17798 1.23833,1.41395 1.62908,3.47876 0.65604,5.19343 -0.97305,1.71467 -3.30984,3.07948 -6.13667,3.6716 -2.82684,0.59212 -6.14374,0.41147 -8.01269,-0.56552 -1.86896,-0.97699 -2.28969,-2.75056 -2.26403,-4.37628 0.0257,-1.62571 0.49783,-3.10335 2.29678,-4.22259 1.79896,-1.11923 4.92432,-1.87982 7.53019,-1.87862 z"
+         d="m 477.96686,338.93828 c 2.60587,0.001 4.69205,0.76403 5.93038,2.17798 1.23833,1.41395 1.62908,3.47876 0.65604,5.19343 -0.97305,1.71467 -3.30984,3.07948 -6.13667,3.6716 -2.82684,0.59212 -6.14374,0.41147 -8.01269,-0.56552 -1.86896,-0.97699 -2.28969,-2.75056 -2.26403,-4.37628 0.0257,-1.62571 0.49783,-3.10335 2.29678,-4.22259 1.79896,-1.11923 4.92432,-1.87982 7.53019,-1.87862 z"
          id="path104770-7-0-6-2-6"
          inkscape:path-effect="#path-effect108612"
          inkscape:original-d="m 478.48624,338.17653 c 2.08644,0.76309 4.17261,1.52594 6.25851,2.28849 0.39103,2.06515 0.78178,4.12996 1.17227,6.19453 -2.33661,1.36511 -4.67339,2.72994 -7.01048,4.0945 -3.31678,-0.18037 -6.63368,-0.36102 -9.95091,-0.54195 -0.42048,-1.77337 -0.84121,-3.54694 -1.26221,-5.32078 0.47245,-1.47744 0.94462,-2.95508 1.41652,-4.43299 3.12576,-0.76036 6.25113,-1.52093 9.3763,-2.2818 z" />
