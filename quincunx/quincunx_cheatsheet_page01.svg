@@ -19294,9 +19294,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.5493359"
-     inkscape:cx="778.3872"
-     inkscape:cy="605.0895"
+     inkscape:zoom="1.2315152"
+     inkscape:cx="618.82394"
+     inkscape:cy="387.4714"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -19783,7 +19783,7 @@
          y="295.87979"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27718px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.189765px">CC BY SA Ramiro Magno • Learn more at <tspan
    style="fill:#398a96;fill-opacity:1;stroke-width:0.189765px"
-   id="tspan21557-4-3">https://maialab.org/quincunx</tspan> • quincunx version 0.0.1 • Updated: 2021-02-17</tspan></text>
+   id="tspan21557-4-3">https://maialab.org/quincunx</tspan> • quincunx version 0.0.1 • Updated: 2021-02-19</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09663px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.189765px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -19811,7 +19811,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#4c4c4c;fill-opacity:1"
          id="flowPara15717-9-4">The <flowSpan
    style="font-weight:bold"
-   id="flowSpan15729-3-5">PGS Catalog</flowSpan> is a service provided by the EMBL-EBI and NHGRI that offers a manually curated and freely available database of published polygenic scores (PGS): <flowSpan
+   id="flowSpan15729-3-5">PGS Catalog</flowSpan> is a service provided by the EMBL-EBI and University of Cambridge that offers a manually curated and freely available database of published polygenic scores (PGS): <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
    id="flowSpan54378">https://www.pgscatalog.org/</flowSpan>.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#4c4c4c;fill-opacity:1"
@@ -19819,7 +19819,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#4c4c4c;fill-opacity:1"
          id="flowPara17166-4-2">The PGS Catalog data provided by the <flowSpan
    style="font-weight:bold"
-   id="flowSpan18748-6-5">RESTful API</flowSpan> is organised around five core entities:</flowPara><flowPara
+   id="flowSpan18748-6-5">REST API</flowSpan> is organised around five core entities:</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#4c4c4c;fill-opacity:1"
          id="flowPara18149-4-9" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#4c4c4c;fill-opacity:1"
@@ -19869,7 +19869,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#4c4c4c;fill-opacity:1"
          id="flowPara17174-7-8-3"><flowSpan
    style="font-weight:bold"
-   id="flowSpan18756-6-8-8">quincunx</flowSpan> facilitates the access to the Catalog via the RESTful API, allowing you to programmatically retrieve data directly into R. Each of the five entities is mapped to an S4 object of a class of the same name.</flowPara></flowRoot>
+   id="flowSpan18756-6-8-8">quincunx</flowSpan> facilitates the access to the Catalog via the REST API, allowing you to programmatically retrieve data directly into R. Each of the five entities is mapped to an S4 object of a class of the same name.</flowPara></flowRoot>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09663px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.189765px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
