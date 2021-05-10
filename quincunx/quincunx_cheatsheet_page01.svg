@@ -13,7 +13,7 @@
    viewBox="0 0 307.20001 220.2"
    version="1.1"
    id="svg32770"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="quincunx_cheatsheet_page01.svg"
    inkscape:export-filename="/home/rmagno/sci/code/R/pkg/gwasrapidd/inst/cheatsheet/gwasrapidd_cheatsheet_thumbs.png"
    inkscape:export-xdpi="119.97"
@@ -19294,17 +19294,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2315152"
-     inkscape:cx="618.82394"
-     inkscape:cy="387.4714"
+     inkscape:zoom="0.87081275"
+     inkscape:cx="956.44172"
+     inkscape:cy="531.47488"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      width="388.05558mm"
      inkscape:window-width="2556"
-     inkscape:window-height="1401"
+     inkscape:window-height="1347"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="72"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
@@ -19783,7 +19783,7 @@
          y="295.87979"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27718px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.189765px">CC BY SA Ramiro Magno • Learn more at <tspan
    style="fill:#398a96;fill-opacity:1;stroke-width:0.189765px"
-   id="tspan21557-4-3">https://maialab.org/quincunx</tspan> • quincunx version 0.0.1 • Updated: 2021-02-19</tspan></text>
+   id="tspan21557-4-3">https://maialab.org/quincunx</tspan> • quincunx version 0.0.1 • Updated: 2021-05-05</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09663px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.189765px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -22425,7 +22425,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-0-6-0-0-5-7-5-0" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-11-1-0-9-8-4-4-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_category</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,232.16659,130.63142)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -22440,7 +22440,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-7-1-7-6-6-4-4-8" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-8-3-1-9-9-9-7-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_description</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,232.16236,133.42792)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -22455,7 +22455,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-09-8-0-2-32-1-6-9" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-12-2-9-8-9-7-3-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_country</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  country</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,232.06711,136.2396)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -23403,7 +23403,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-0-6-0-0-5-7-5-0-7-6-1-8" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-11-1-0-9-8-4-4-5-5-9-2-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_category</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,232.26495,214.78329)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -23418,7 +23418,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-7-1-7-6-6-4-4-8-4-3-6-3" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-8-3-1-9-9-9-7-4-2-5-0-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_description</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,232.26074,217.57979)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -23433,7 +23433,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-09-8-0-2-32-1-6-9-9-4-1-6" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-12-2-9-8-9-7-3-1-2-9-6-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_country</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  country</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,232.16549,220.39147)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -24596,7 +24596,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-0-6-0-0-5-7-5" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-11-1-0-9-8-4-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_category</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,130.70146,149.94351)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -24611,7 +24611,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-7-1-7-6-6-4-4" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-8-3-1-9-9-9-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_description</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,130.69723,152.74001)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
@@ -24626,7 +24626,7 @@
              width="211.1194"
              id="rect15642-6-9-0-4-69-3-9-9-0-09-8-0-2-32-1-6" /></flowRegion><flowPara
            id="flowPara17174-7-1-4-1-70-7-1-1-8-12-2-9-8-9-7-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  ancestry_country</flowPara></flowRoot>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1">•  country</flowPara></flowRoot>
       <flowRoot
          transform="matrix(0.18976476,0,0,0.18976476,130.60198,155.55169)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1542px;line-height:0.4;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4c4c4c;fill-opacity:1;stroke:none"
